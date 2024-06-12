@@ -4,4 +4,7 @@
 
 - Perceptron
 
+      - Plotting a simple perceptron
+      - Building a perceptron from scratch
+
 <h2>IN PROGRESS...</h2>
