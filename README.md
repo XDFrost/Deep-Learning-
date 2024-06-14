@@ -6,5 +6,6 @@
 
       - Plotting a simple perceptron
       - Building a perceptron from scratch
+      - Understanding about loss function
 
 <h2>IN PROGRESS...</h2>
