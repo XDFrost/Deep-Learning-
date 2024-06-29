@@ -10,6 +10,7 @@
 
       - Worked on Real World Datasets to understand ANN:
             - Customer Churn Prediction
+            - MNIST Dataset
 
 - BackPropagation
 
