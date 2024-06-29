@@ -8,4 +8,9 @@
       - Building a perceptron from scratch
       - Understanding about loss function
 
+- BackPropagation
+
+      - Understanding about backpropagation
+      - Making a customer churn prediction model using backpropagation to understand the concept as well as keras
+
 <h2>IN PROGRESS...</h2>
