@@ -8,9 +8,9 @@
       - Building a perceptron from scratch
       - Understanding about loss function
 
-- BackPropagation
+      - Worked on Real World Datasets to understand ANN:
+            - Customer Churn Prediction
 
-      - Understanding about backpropagation
-      - Making a customer churn prediction model using backpropagation to understand the concept as well as keras
+- BackPropagation
 
 <h2>IN PROGRESS...</h2>
