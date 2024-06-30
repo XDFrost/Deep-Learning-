@@ -9,8 +9,9 @@
       - Understanding about loss function
 
       - Worked on Real World Datasets to understand ANN:
-            - Customer Churn Prediction
-            - MNIST Dataset
+            - Customer Churn Prediction (Binary Classification)
+            - MNIST Dataset (Multi-Class Classification)
+            - Graduation Admission Prediction (Regression)
 
 - BackPropagation
 
