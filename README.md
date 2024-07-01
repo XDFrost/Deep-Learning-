@@ -1,3 +1,5 @@
+<h2>IN PROGRESS...</h2>
+
 <h1>A complete set of deep learning concepts</h1>
 
 <h2>Contents</h2>
@@ -15,4 +17,3 @@
 
 - BackPropagation
 
-<h2>IN PROGRESS...</h2>
